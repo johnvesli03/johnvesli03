@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="https://avatars.githubusercontent.com/u/138193695?v=4" alt="John Vesli" width="150" style="border-radius: 50%;" />
+      <img src="https://raw.githubusercontent.com/johnvesli03/johnvesli03/main/21004063.jpg" alt="John Vesli" width="150" style="border-radius: 50%;" />
     </td>
     <td>
       <h1>Hi 👋, I'm John Vesli</h1>
@@ -60,7 +60,6 @@
 
 ### 📊 GitHub Stats
 
-
 ### 🔤 Most Used Languages
 
 <p align="center">
@@ -68,10 +67,13 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnvesli03&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
+
 ---
+
 
 ### 🔥 GitHub Streak
 
@@ -80,3 +82,4 @@
 </p>
 
 ---
+
