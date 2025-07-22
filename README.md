@@ -73,9 +73,3 @@
 </p>
 
 ---
-
-<h3 align="center">📈 GitHub Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-contribution-graph.ezra.wtf/api?username=johnvesli03&bg_color=ffffff&color=58a6ff&line=0366d6&point=24292e&area=true&area_color=79b8ff" alt="Contribution Graph" />
-</p>
