@@ -57,9 +57,11 @@
 </p>
 
 ---
-
 <h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesli03&layout=compact&hide=shaderlab,hlsl&theme=default" alt="Top Languages" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnvesli03&show_icons=true&theme=default&locale=en" alt="GitHub Stats" />
 </p>
@@ -68,8 +70,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnvesli03&theme=default" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesli03&layout=compact&hide=shaderlab,hlsl&theme=default" alt="Top Languages" />
-</p>
 
 ---
+
+
