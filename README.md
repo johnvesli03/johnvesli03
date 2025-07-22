@@ -2,18 +2,22 @@
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  🌱 I’m currently learning new technologies and frameworks to strengthen my full-stack development skills.<br>
-  👨‍💻 All of my projects are available on <a href="https://github.com/johnvesli03" target="_blank">GitHub</a>.<br>
+  🌱 I’m currently learning new technologies and frameworks to strengthen my full‑stack development skills.<br>
+  👨‍💻 Projects on <a href="https://github.com/johnvesli03" target="_blank">GitHub</a>.<br>
   📫 Reach me at: <strong>Veslijohn3@gmail.com</strong>
 </p>
 
 <p align="center">
-  <a href="https://johnvesli-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1ZoOwGokoyzPiEJBReN59V8NZUd2oEyQH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View Resume-green?style=for-the-badge&logo=googledrive" alt="Resume" />
-  </a>
+  <a href="https://johnvesli-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Visit Portfolio‑blue?style=for‑the‑badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1ZoOwGokoyzPiEJBReN59V8NZUd2oEyQH/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/View Resume‑green?style=for‑the‑badge&logo=googledrive" alt="Resume" /></a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=johnvesli03&theme=flat&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
@@ -21,17 +25,9 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/john-vesli-a29b2b257/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Veslijohn3@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/9hAHM5JFev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/john-vesli-a29b2b257/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/></a>&nbsp;&nbsp;
+  <a href="mailto:Veslijohn3@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/9hAHM5JFev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/></a>
 </p>
 
 ---
@@ -52,17 +48,18 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
+
 ### 🔤 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesli03&layout=compact&hide=shaderlab,hlsl" alt="Top Languages" />
 </p>
-
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnvesli03&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
+
 
 
 ### 🔥 GitHub Streak
@@ -70,3 +67,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=johnvesli03" alt="GitHub Streak" />
 </p>
+
