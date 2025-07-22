@@ -1,25 +1,20 @@
-<table>
-  <tr>
-    <td width="180">
-      <img src="https://raw.githubusercontent.com/johnvesli03/johnvesli03/main/21004063.jpg" alt="John Vesli" width="150" style="border-radius: 50%;" />
-    </td>
-    <td>
-      <h1>Hi 👋, I'm John Vesli</h1>
-      <h3>Aspiring Full Stack Developer</h3>
-      <p>🌱 I’m currently learning new technologies and frameworks to strengthen my full-stack development skills.</p>
-      <p>👨‍💻 All of my projects are available on <a href="https://github.com/johnvesli03">GitHub</a>.</p>
-      <p>📫 Reach me at: <strong>Veslijohn3@gmail.com</strong></p>
-      <p>
-        <a href="https://johnvesli-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-        </a>
-        <a href="https://drive.google.com/file/d/1ZoOwGokoyzPiEJBReN59V8NZUd2oEyQH/view?usp=drive_link" target="_blank">
-          <img src="https://img.shields.io/badge/View Resume-green?style=for-the-badge&logo=googledrive" alt="Resume" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm John Vesli</h1>
+<h3 align="center">Aspiring Full Stack Developer</h3>
+
+<p align="center">
+  🌱 I’m currently learning new technologies and frameworks to strengthen my full-stack development skills.<br>
+  👨‍💻 All of my projects are available on <a href="https://github.com/johnvesli03" target="_blank">GitHub</a>.<br>
+  📫 Reach me at: <strong>Veslijohn3@gmail.com</strong>
+</p>
+
+<p align="center">
+  <a href="https://johnvesli-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ZoOwGokoyzPiEJBReN59V8NZUd2oEyQH/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View Resume-green?style=for-the-badge&logo=googledrive" alt="Resume" />
+  </a>
+</p>
 
 ---
 
@@ -57,22 +52,17 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
 ### 🔤 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvesli03&layout=compact&hide=shaderlab,hlsl" alt="Top Languages" />
 </p>
 
----
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnvesli03&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-
----
 
 
 ### 🔥 GitHub Streak
@@ -80,6 +70,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=johnvesli03" alt="GitHub Streak" />
 </p>
-
----
-
