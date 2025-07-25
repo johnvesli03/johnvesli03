@@ -11,7 +11,7 @@
   <a href="https://johnvesli-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1ZoOwGokoyzPiEJBReN59V8NZUd2oEyQH/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1kuUC69t4aaybvKjRkodpzqPjDresEYfr/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-green?style=for-the-badge&logo=googledrive" alt="Resume" />
   </a>
 </p>
