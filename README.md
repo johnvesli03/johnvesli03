@@ -59,14 +59,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnvesli03&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📈 GitHub Contribution Graph
 
 <p align="center">
