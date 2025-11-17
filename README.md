@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning full stack technologies with Spring Boot & React  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/johnvesli03)  
-- 📫 Reach me at: **Veslijohn3@gmail.com**
+- 📫 Reach me at: **veslijohn3@gmail.com**
 
 ---
 
