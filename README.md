@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Java | Spring Boot | MongoDB</h3>
 
 <p align="center">
-  <a href="mailto:Veslijohn3@gmail.com" target="_blank">
+  <a href="mailto:veslijohn3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
