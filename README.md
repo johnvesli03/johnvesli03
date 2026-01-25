@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Vesli</h1>
-<h3 align="center">Aspiring Full Stack Developer | Java | Spring Boot | MongoDB</h3>
+<h3 align="center">Jr. Software Engineer at Paxway Solutions | Java | Spring Boot | MongoDB</h3>
 
 <p align="center">
   <a href="mailto:veslijohn3@gmail.com" target="_blank">
